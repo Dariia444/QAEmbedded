@@ -1,1 +1,1 @@
-File for LAb 6 by Dariia Polishchuk, IS-03
+Files for QA Labs by Dariia Polishchuk, IS-03
